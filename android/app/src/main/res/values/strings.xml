@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="demo_webView">webView演示</string>
+</resources>
