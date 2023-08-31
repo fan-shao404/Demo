@@ -32,6 +32,7 @@ public class BootstrapActivity extends Activity implements View.OnClickListener 
     public void onClick(View view) {
         if (binding.tvDemoWebView.equals(view)) {
             LogUtil.e("--------------");
+            LogUtil.e("--------------");
         }
     }
 }
